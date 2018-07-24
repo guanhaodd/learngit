@@ -6,4 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 this is branch dev and gh.
 fixed bug.
-this is windows fixed.
+this is windows fixed,not Linux.
